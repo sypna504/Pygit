@@ -30,7 +30,7 @@ Pet-project упрощённой реализации **Git на Python**.
 - **Standard Library:** pathlib, os, hashlib, zlib, abc, typing, time, sys
 - **Architecture:** modular CLI application
 - **Concepts:** file system operations, hashing, object storage, serialization
-- 
+
 ## Project Goal
 
 Цель проекта — лучше понять внутреннее устройство Git, попрактиковаться в Python, работе с файловой системой, хэшированием данных и объектно-ориентированным проектированием.
